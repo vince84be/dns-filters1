@@ -1,4 +1,4 @@
-iphone-13-pro
-iphone-13-pro.tail375129.ts.net
-fd7a:115c:a1e0::4501:8c08
-100.74.140.6
+||iphone-13-pro^
+||iphone-13-pro.tail375129.ts.net^
+||fd7a:115c:a1e0::4501:8c08^
+||100.74.140.6^
